@@ -1,5 +1,9 @@
 # A-die-Game-
-It's my First Coding 
+#It's my First Coding 
+
+
+
+
 import random 
 
 print("Welcome to the Die Simulator!")
